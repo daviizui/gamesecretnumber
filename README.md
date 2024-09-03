@@ -1,6 +1,6 @@
 
 <h1>Jogo do número secreto</h1>  
-<h3>Açoes por comando de voz</h3>
+<h3>Ações por comando de voz</h3>
 
 
 
